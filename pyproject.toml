@@ -4,7 +4,7 @@ version = "1.0"
 description = "Python dependency management and packaging made easy."
 authors = ["LEv145"]
 include = ["banner.txt"]
-packages = [{include="."}]
+packages = [{include="__init__.py"}]
 
 
 [tool.poetry.dependencies]
