@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "hkari_musicbot_banner"
+name = "hikari_musicbot_banner"
 version = "1.0"
 description = "Python dependency management and packaging made easy."
 authors = ["LEv145"]
